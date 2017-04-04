@@ -1,0 +1,12 @@
+{
+  "name": "mentorbot1",
+  "version": "1.0.0",
+  "description": "A bot for managing requests for mentors at hackathons.",
+  "author": {
+    "name": "Andrew Kerr"
+  },
+  "dependencies": {
+    "coffee-script": "1.6.3",
+    "slack-client": "1.2.0"
+  }
+}
